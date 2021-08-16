@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I love programming and travelling
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<!--<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Abdelali12-codes}/count.svg" alt="Abdelali12-codes :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Abdelali12-codes}/count.svg" alt="Abdelali12-codes :: Visitor's Count" /></p>-->
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
