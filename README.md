@@ -13,7 +13,7 @@
 
 <!--<h4 align="center">Visitor's count :eyes:</h4>-->
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Abdelali12-codes}/count.svg" alt="Abdelali12-codes :: Visitor's Count" /></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{Abdelali12-codes}/count.svg" alt="Abdelali12-codes :: Visitor's Count" /></p>-->
 
 <!--### Spotify Playing 🎧
 
