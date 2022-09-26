@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming and travelling
-- 👋 I Offer Greate Services on Fiverr for AWS and Devops
+- 👋 Fiverr: I am Offering Great Services on Fiverr for AWS and Devops
 
 
 <!--<h4 align="center">Visitor's count :eyes:</h4>-->
