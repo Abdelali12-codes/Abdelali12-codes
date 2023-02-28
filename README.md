@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming and travelling
 - 👋 Fiverr: I am Offering Great Services on Fiverr for AWS and Devops
 
@@ -136,7 +136,7 @@
 [youtube]: https://www.youtube.com/channel/UCmJ3RnxnLnx-ZfnyE6A5jaA
 [instagram]: https://www.instagram.com/abdelali.codes/
 [linkedin]: https://www.linkedin.com/in/abdelali-jadelmoula-ab974a139/
-[fiverr]: https://www.fiverr.com/users/abdelalijadelmo
+[fiverr]: https://www.fiverr.com/abdelalijade851
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
