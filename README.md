@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming and travelling
 - 👋 Fiverr: I am Offering Great Services on Fiverr for AWS and Devops
 
