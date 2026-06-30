@@ -95,16 +95,17 @@ With 7+ years of experience, I specialize in building secure, scalable, and prod
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelali12-codes&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdelali12-codes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali12-codes&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelali12-codes&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Abdelali12-codes&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelali12-codes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelali12-codes&theme=github_dark" />
 </p>
